@@ -16,7 +16,7 @@
 
 ## Purpose
 
-You are likely already building a foundation in electrical engineering through coursework, but that alone is not enough to stand out in a competitive job market. This document outlines the best practices you should follow to become a strong candidate for a hardware engineering role after graduation. By focusing on practical experience, industry exposure, and targeted skill development, you can significantly improve your readiness for internships and full-time positions. These practices help you move beyond academic requirements and build real-world capability.
+At the University of Washington, the engineering program requires more challenging courses, superior grades, and in-depth understanding and research in the field of science. However, merely having these is not enough to stand out in the highly competitive job market. This document outlines the best practices you should follow after graduation to become an outstanding candidate for positions in hardware engineering. By focusing on practical experience, industry exposure, and targeted skill development, you can significantly enhance your readiness for internships and full-time job opportunities. These practices help you go beyond academic requirements and develop practical abilities.
 
 ---
 
@@ -24,51 +24,87 @@ You are likely already building a foundation in electrical engineering through c
 
 ### Build a Strong Technical Foundation
 
-You should focus on developing a deep understanding of core electrical engineering subjects such as circuits, electronics, and signals. While coursework introduces these concepts, mastering them requires applying knowledge to unfamiliar problems rather than memorizing formulas. A strong foundation improves your ability to solve technical interview questions and adapt to real-world engineering challenges. You should regularly practice additional problems beyond assigned homework to strengthen your problem-solving ability.
+Focus on core EE courses such as circuits, electronics, and signals instead of spreading attention across too many topics. Prioritize understanding how and why concepts work, rather than memorizing formulas, so you can apply them in unfamiliar problem
+
+To deepen understanding, you should actively look for additional practice problems beyond homework. Use textbooks (end-of-chapter problems), online resources such as MIT OpenCourseWare or YouTube lectures, and past exams when available. Working through these problems exposes gaps in your understanding and forces you to think through real problem-solving steps
+
+When solving problems, do not stop after getting the answer. You should rework difficult problems without notes, explain your solution process out loud, and compare different solution methods. This approach strengthens your ability to apply concepts in technical interviews
 
 ---
 
 ### Develop Practical Project Experience
 
-You should build at least one project that solves a real-world problem and document it clearly on platforms such as GitHub. Projects demonstrate your ability to apply theoretical knowledge and show recruiters that you understand the challenges of designing and debugging systems. Unlike coursework, projects provide tangible proof of your skills and initiative. You should focus on projects such as PCB design or embedded systems, as these closely align with hardware engineering roles.
+Try to undertake practical projects such as PCB design or embedded systems instead of relying only on classroom learning. These projects allow you to apply theoretical knowledge to real-world problems, which is what employers actually look for when evaluating candidates.
+
+You should actively search for project ideas on platforms like GitHub, YouTube, or engineering forums, and then modify or expand those ideas instead of copying them directly. Starting with simpler projects and gradually increasing complexity helps build confidence and improves your problem-solving ability over time.
+
+Create a GitHub repository to document your work clearly. Each project should include the goal, design process, tools used, challenges faced, and final results. Adding diagrams, code snippets, or testing results makes your work easier to understand and shows your technical ability more effectively.
+
 
 ---
 
 ### Gain Industry Experience Early
 
-You should begin applying for internships at least six to nine months in advance and track your applications consistently. Early applications increase your exposure to opportunities and help you understand industry expectations. Internship experience strengthens your resume and provides insight into real engineering workflows. You should also attend career fairs, speak with recruiters, and follow up professionally to build connections and improve your chances of securing interviews.
+Apply for internships early and consistently instead of waiting until the last minute. Starting at least 6–9 months in advance gives you more opportunities and increases your chances of securing interviews.
+
+You should submit applications regularly and track your progress using a spreadsheet, including applications, responses, and interview results. This helps you stay organized and identify patterns, such as which roles you are more competitive for.
+
+Prepare tailored resumes for different roles, such as hardware, embedded systems, or testing, instead of using one generic resume. Highlighting relevant projects and tools for each position makes your application stronger and more aligned with what recruiters are looking for.
+
+Attend career fairs and actively talk to recruiters instead of just collecting information. Ask about required skills, current projects, and hiring expectations, then follow up through LinkedIn or email. This helps you build connections and makes you more memorable compared to other candidates.
+
+In addition to internships, participate in research labs or engineering clubs. Take on specific responsibilities and contribute to real work instead of being a passive member. This experience demonstrates teamwork and practical skills, which are important for both internships and full-time roles.
 
 ---
 
 ### Learn Relevant Tools and Technologies
 
-You should become comfortable with industry-relevant tools such as LTspice, MATLAB, and Python. These tools are widely used in electrical engineering and allow you to analyze and design systems efficiently. Employers expect candidates to have hands-on experience with these tools rather than just theoretical familiarity. You should also explore hardware design tools such as KiCad or Altium to better align your skills with industry expectations.
+Develop familiarity with tools such as LTspice and MATLAB instead of only learning concepts in theory. These simulation tools help you visualize circuit behavior and verify your designs before building physical systems, which is a common practice in industry.
+
+In addition to simulation tools, learn programming languages such as Python and C/C++, especially for embedded systems or data analysis. Being able to combine hardware and software skills makes you more flexible and valuable in many electrical engineering roles.
+
+You should also become familiar with hardware design tools such as KiCad or Altium. Designing schematics and PCB layouts helps you understand how circuits are implemented in real devices. This experience is important because many engineering roles require not only designing circuits, but also preparing them for manufacturing.
 
 ---
 
 ### Prepare Strategically for Job Applications
 
-You should tailor your resume for each role and highlight specific projects, tools, and measurable outcomes. A generic resume makes it difficult for recruiters to understand your strengths. You should also practice technical interview problems regularly to improve your speed and confidence. Being able to clearly explain your project work is equally important, as employers evaluate both your technical knowledge and your communication skills during interviews.
+Build a clear and strong resume by tailoring it to each role instead of using one generic version. Emphasize specific projects, tools, and measurable results to show what you have actually done, rather than just listing coursework. This makes your application more relevant and aligned with what recruiters are looking for.
+
+Practice technical interview problems regularly, including circuits, basic coding, and problem-solving questions. Use online resources and simulate real interview conditions, such as timed practice or explaining your thinking out loud. This helps you become more comfortable solving problems under pressure.
+
+You should also practice explaining your technical work clearly. Be able to describe your project goals, design decisions, challenges, and outcomes in a structured way. This is important because interviewers often evaluate not only your technical ability, but also how well you communicate your thinking.
+
+Prepare for common behavioral questions by connecting your answers to real experiences, such as projects, internships, or teamwork situations. This makes your answers more convincing and shows that you can apply your skills in real situations.
+
+Before applying or interviewing, research the company to understand their products, technologies, and expectations. This allows you to better align your answers and demonstrate genuine interest, which can make you stand out compared to other candidates.
 
 ---
 
 ### Build Strong Professional Skills
 
-You should actively develop communication, teamwork, and time management skills through group projects or engineering organizations. These skills are essential in collaborative engineering environments and are often evaluated during interviews. Strong communication helps you explain technical ideas clearly, while teamwork allows you to contribute effectively to group work. You should also maintain consistent habits by setting weekly goals and tracking your progress.
+Develop communication skills by regularly explaining technical concepts and projects to others instead of keeping your understanding to yourself. Practicing clear and structured explanations helps you organize your thinking and makes it easier to communicate during interviews and teamwork.
+
+You should also practice professional communication, such as writing clear emails, asking effective questions, and following up with recruiters or team members. These skills are important because engineering work often involves collaboration, and poor communication can slow down progress even if your technical skills are strong.
+
+Develop teamwork skills by actively contributing in group projects or engineering clubs instead of being a passive participant. Taking responsibility for specific tasks and completing them reliably shows that you can work effectively in a team environment, which is a key expectation in most engineering roles.
+
+Build time management and consistency by setting weekly goals, such as project progress or job applications, and tracking your tasks. Maintaining a regular schedule helps you balance coursework, personal projects, and job preparation, which is necessary to stay productive over a long period of time.
 
 ---
 
 ## Figure
 
-**Figure 1: Key Factors for Hardware Engineering Job Readiness**
+**Figure 1: Key Factors for Hardware Engineering Job Readiness*
+<img width="640" height="480" alt="hardware_engineering_pie_chart" src="https://github.com/user-attachments/assets/15903fc0-f74a-46fd-866e-72e32ba22ee3" />
 
-<!-- 👉 在这里插入你的 pie chart 图片 -->
-
-This figure illustrates the relative importance of different factors in preparing for a hardware engineering career. Technical knowledge and project experience represent the largest portions, emphasizing the importance of hands-on skills. Internships and tools also play a significant role, while professional skills provide additional support in workplace success.
 
 ---
 
 ## References
 
-[1] U.S. Bureau of Labor Statistics, “Electrical and Electronics Engineers,” 2024.  
-[2] IEEE, “Career Development Resources,” 2024.
+[1] U.S. Bureau of Labor Statistics, "Electrical and Electronics Engineers," 28 August 2025. [Online]. Available: https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm. [Accessed 16 April 2026].
+
+[2] IEEE, "Career Development Resources," [Online]. Available: https://www.ieee.org/careers. [Accessed 16 April 2026].
+
+[3] McKinsey Global Institute, "Agents, robots, and us: Skill partnerships in the age of AI," 25 November 2025. [Online]. Available: https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-skill-partnerships-in-the-age-of-ai. [Accessed 16 April 2026].
