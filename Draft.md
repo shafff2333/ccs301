@@ -16,7 +16,7 @@
 
 ## Purpose
 
-At the University of Washington, the engineering program requires more challenging courses, superior grades, and in-depth understanding and research in the field of science. However, merely having these is not enough to stand out in the highly competitive job market. This document outlines the best practices you should follow after graduation to become an outstanding candidate for positions in hardware engineering. By focusing on practical experience, industry exposure, and targeted skill development, you can significantly enhance your readiness for internships and full-time job opportunities. These practices help you go beyond academic requirements and develop practical abilities.
+At the University of Washington, the engineering program requires more challenging courses, superior grades, and in-depth understanding and research in the field of science. However, merely having these is not enough to stand out in the highly competitive job market [^1]. This document outlines the best practices you should follow after graduation to become an outstanding candidate for positions in hardware engineering. By focusing on practical experience, industry exposure, and targeted skill development, you can significantly enhance your readiness for internships and full-time job opportunities. These practices help you go beyond academic requirements and develop practical abilities.
 
 ---
 
@@ -45,7 +45,7 @@ Create a GitHub repository to document your work clearly. Each project should in
 
 ### Gain Industry Experience Early
 
-Apply for internships early and consistently instead of waiting until the last minute. Starting at least 6–9 months in advance gives you more opportunities and increases your chances of securing interviews.
+Apply for internships early and consistently instead of waiting until the last minute. Starting at least 6–9 months in advance gives you more opportunities and increases your chances of securing interviews[^1].
 
 You should submit applications regularly and track your progress using a spreadsheet, including applications, responses, and interview results. This helps you stay organized and identify patterns, such as which roles you are more competitive for.
 
@@ -59,11 +59,11 @@ In addition to internships, participate in research labs or engineering clubs. T
 
 ### Learn Relevant Tools and Technologies
 
-Develop familiarity with tools such as LTspice and MATLAB instead of only learning concepts in theory. These simulation tools help you visualize circuit behavior and verify your designs before building physical systems, which is a common practice in industry.
+Develop familiarity with tools such as LTspice and MATLAB instead of only learning concepts in theory. These simulation tools help you visualize circuit behavior and verify your designs before building physical systems, which is a common practice in industry[^2].
 
 In addition to simulation tools, learn programming languages such as Python and C/C++, especially for embedded systems or data analysis. Being able to combine hardware and software skills makes you more flexible and valuable in many electrical engineering roles.
 
-You should also become familiar with hardware design tools such as KiCad or Altium. Designing schematics and PCB layouts helps you understand how circuits are implemented in real devices. This experience is important because many engineering roles require not only designing circuits, but also preparing them for manufacturing.
+You should also become familiar with hardware design tools such as KiCad or Altium. Designing schematics and PCB layouts helps you understand how circuits are implemented in real devices. This experience is important because many engineering roles require not only designing circuits, but also preparing them for manufacturing. These skills remain valuable even as automation and AI continue to evolve [3].
 
 ---
 
