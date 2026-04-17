@@ -63,7 +63,7 @@ Develop familiarity with tools such as LTspice and MATLAB instead of only learni
 
 In addition to simulation tools, learn programming languages such as Python and C/C++, especially for embedded systems or data analysis. Being able to combine hardware and software skills makes you more flexible and valuable in many electrical engineering roles.
 
-You should also become familiar with hardware design tools such as KiCad or Altium. Designing schematics and PCB layouts helps you understand how circuits are implemented in real devices. This experience is important because many engineering roles require not only designing circuits, but also preparing them for manufacturing. These skills remain valuable even as automation and AI continue to evolve [3].
+You should also become familiar with hardware design tools such as KiCad or Altium. Designing schematics and PCB layouts helps you understand how circuits are implemented in real devices. This experience is important because many engineering roles require not only designing circuits, but also preparing them for manufacturing. These skills remain valuable even as automation and AI continue to evolve [^3].
 
 ---
 
