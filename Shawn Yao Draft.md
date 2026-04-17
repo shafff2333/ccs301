@@ -103,8 +103,8 @@ Build time management and consistency by setting weekly goals, such as project p
 
 ## References
 
-[1] U.S. Bureau of Labor Statistics, "Electrical and Electronics Engineers," 28 August 2025. [Online]. Available: https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm. [Accessed 16 April 2026].
+[^1] U.S. Bureau of Labor Statistics, "Electrical and Electronics Engineers," 28 August 2025. [Online]. Available: https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm. [Accessed 16 April 2026].
 
-[2] IEEE, "Career Development Resources," [Online]. Available: https://www.ieee.org/careers. [Accessed 16 April 2026].
+[^2] IEEE, "Career Development Resources," [Online]. Available: https://www.ieee.org/careers. [Accessed 16 April 2026].
 
-[3] McKinsey Global Institute, "Agents, robots, and us: Skill partnerships in the age of AI," 25 November 2025. [Online]. Available: https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-skill-partnerships-in-the-age-of-ai. [Accessed 16 April 2026].
+[^3] McKinsey Global Institute, "Agents, robots, and us: Skill partnerships in the age of AI," 25 November 2025. [Online]. Available: https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-skill-partnerships-in-the-age-of-ai. [Accessed 16 April 2026].
